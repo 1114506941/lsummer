@@ -20,7 +20,8 @@ Extension tool - Add slide introduction parameter input script for homepage slid
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/59866013/226814600-e8c4fad7-1ed2-47a7-b834-ba33cc1cb36a.png">
 
-![Uploading image.png…]()
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/59866013/226818991-e0fa8475-a6c5-45c8-9aea-962847a7f44a.png">
 
 As can be seen from the following figure，in the file\Public\system\slide_add.html，during the process of adding the homepage slide, parameters are brought into the database for update without any processing
 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/59866013/226819017-0765c373-00b5-4867-9919-7e23ac8fff9f.png">
